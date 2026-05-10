@@ -58,7 +58,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ragunathsuresh/Flora-Vision.git
+   git clone https://github.com/ragunathsuresh/FloraVision..git
    ```
 2. **Navigate to the project directory**
    ```bash
@@ -122,11 +122,11 @@ Contributions are welcome! If you'd like to improve the project:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👤 Author Information
+##  Author Information
 
 **Ragu**
 - GitHub: [@ragunathsuresh](https://github.com/ragunathsuresh)
 - Email: ragusuresh291@gmail.com
 
 ---
-*Frontend deployed and hosted with ❤️ on Render.*
+*Frontend deployed and hosted with on Render.*
