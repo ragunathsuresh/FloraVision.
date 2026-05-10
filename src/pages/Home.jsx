@@ -10,7 +10,7 @@ import heroBgTree from "../assets/backgroundTree.jpg";
 function Home() {
   return (
     <div className="site-shell">
-      <div
+      <div 
         className="hero-trending-wrapper"
         style={{ backgroundImage: `url(${heroBgTree})` }}
       >
