@@ -8,7 +8,7 @@
 
 FloraVision is a sophisticated, high-performance frontend landing page for a premium plant e-commerce brand. Designed with modern aesthetics and smooth interactions, it provides a seamless user experience for discovering and exploring indoor and outdoor plants.
 
-[**Explore the Live Demo »**](https://flora-vision.onrender.com)
+[**Explore the Live Demo »**](https://floravision-lnsi.onrender.com)
 
 ---
 
