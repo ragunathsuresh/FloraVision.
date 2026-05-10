@@ -18,10 +18,9 @@
 }
 
 .site-section {
-  width: 100%;
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 84px 20px;
+  width: var(--container);
+  margin-inline: auto;
+  padding: 84px 0;
 }
 
 .glass-panel {
@@ -32,10 +31,9 @@
 }
 
 .nav-shell {
-  width: 100%;
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 46px 20px 0;
+  width: var(--container);
+  margin-inline: auto;
+  padding-top: 46px;
 }
 
 .nav-inner {
@@ -127,10 +125,8 @@
 .hero-content {
   position: relative;
   z-index: 2;
-  width: 100%;
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 0 20px;
+  width: var(--container);
+  margin-inline: auto;
 }
 
 .hero-text {
@@ -635,10 +631,9 @@
 }
 
 .footer {
-  width: 100%;
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 92px 20px 72px;
+  width: var(--container);
+  margin-inline: auto;
+  padding: 92px 0 72px;
 }
 
 .footer-grid {
