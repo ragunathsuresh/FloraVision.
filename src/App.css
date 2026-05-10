@@ -20,7 +20,7 @@
 .site-section {
   width: var(--container);
   margin-inline: auto;
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .glass-panel {
@@ -125,8 +125,8 @@
 
 .hero-section {
   position: relative;
-  min-height: 850px;
-  padding-top: 190px;
+  min-height: 750px;
+  padding-top: 140px;
   z-index: 2;
 }
 
